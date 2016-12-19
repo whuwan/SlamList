@@ -65,19 +65,16 @@
 	    <td>MonSLAM</td>
 	    <td>单目</td>
 	    <td>https://github.com/hanmekim/SceneLib2</td>
-	    <td>https://github.com/OpenSLAM/SceneLib2</td>
 	  </tr>
 	  <tr>
 	    <td>PTAM</td>
 	    <td>单目</td>
 	    <td>https://www.robots.ox.ac.uk/~gk/PTAM</td>
-	    <td>https://github.com/OpenSLAM/PTAM-GPL</td>
 	  </tr>
 	  <tr>
 	    <td>ORB-SLAM</td>
 	    <td>单目为主</td>
 	    <td>http://webdiis.unizar.es/~raulmur/orbslam</td>
-	    <td>https://github.com/OpenSLAM/ORB_SLAM</td>
 	    <td> C++ </td>
 	    <td> GPLv3 </td>
 	  </tr>
@@ -85,7 +82,6 @@
 	    <td>LSD-SLAM</td>
 	    <td>单目为主</td>
 	    <td>http://vision.in.tum.de/research/vslam/lsdslam</td>
-	    <td>https://github.com/OpenSLAM/lsd_slam</td>
 	    <td> C++/ROS </td>
 	    <td> GNU General Public License </td>
 	  </tr>
@@ -93,7 +89,6 @@
 	    <td>SVO</td>
 	    <td>单目</td>
 	    <td>https://github.com/uzh-rpg/rpg_svo</td>
-	    <td>https://github.com/OpenSLAM/rpg_svo</td>
 	    <td> C++/ROS </td>
 	    <td> GNU General Public License </td>
 	  </tr>
@@ -101,37 +96,31 @@
 	    <td>DTAM</td>
 	    <td>RGB-D</td>
 	    <td>https://github.com/anuranbaka/OpenDTAM</td>
-	    <td>https://github.com/OpenSLAM/OpenDTAM</td>
 	  </tr>
 	  <tr>
 	    <td>DVO</td>
 	    <td>RGB-D</td>
 	    <td>https://github.com/tum-vision/dvo_slam</td>
-	    <td>https://github.com/OpenSLAM/dvo_slam</td>
 	  </tr>
 	  <tr>
 	    <td>DSO</td>
 	    <td>单目</td>
 	    <td>https://github.com/JakobEngel/dso</td>
-	    <td>https://github.com/OpenSLAM/dso</td>
 	  </tr>
 	  <tr>
 	    <td>RTAB-MAP</td>
 	    <td>双目/RGB-D</td>
 	    <td>https://github.com/introlab/rtabmap</td>
-	    <td>https://github.com/OpenSLAM/rtabmap </td>
 	  </tr>
 	  <tr>
 	    <td>RGBD-SLAM-V2</td>
 	    <td>RGB-D</td>
 	    <td>https://github.com/felixendres/rgbdslam_v2</td>
-	    <td>https://github.com/OpenSLAM/rgbdslam_v2</td>
 	  </tr>
 	  <tr>
 	    <td>Elastic Fusion</td>
 	    <td>RGB-D</td>
 	    <td>https://github.com/mp3guy/ElasticFusion</td>
-	    <td>https://github.com/OpenSLAM/ElasticFusion</td>
 	  </tr>
 	  <tr>
 	    <td>Hector SLAM</td>
@@ -149,19 +138,16 @@
 	    <td>OKVIS</td>
 	    <td>多目+IMU</td>
 	    <td>https://github.com/ethz-asl/okvis</td>
-	    <td>https://github.com/OpenSLAM/okvis</td>
 	  </tr>
 	  <tr>
 	    <td>ROVIO</td>
 	    <td>多目+IMU</td>
 	    <td>https://github.com/ethz-asl/rovio</td>
-	    <td>https://github.com/OpenSLAM/rovio</td>
 	  </tr>
 	  <tr>
 	    <td> COSLAM </td>
 	    <td>  </td>
 	    <td>http://drone.sjtu.edu.cn/dpzou/project/coslam.php</td>
-	    <td>https://github.com/OpenSLAM/rovio</td>
 	    <td> C++ </td>
 	    <td> GNU General Public License </td>
 	  </tr>
